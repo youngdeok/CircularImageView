@@ -23,6 +23,9 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.widget.ImageView;
 
+import com.pkmmte.view.R;
+
+
 /**
  * Custom ImageView for circular images in Android while maintaining the
  * best draw performance and supporting custom borders & selectors.

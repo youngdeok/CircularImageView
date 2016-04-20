@@ -1,1 +1,1 @@
-include ':circularimageview', ':circularimageview-sample', ':circularimageview-sample'
+include ':circularimageview', ':circularimageview-sample'
